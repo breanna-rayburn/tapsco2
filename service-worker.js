@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tapsco2/precache-manifest.ea936a43cb39d1d7662b63423a89d424.js"
+  "/tapsco2/precache-manifest.8e52f8bdb9d41a4bfdfec3d5c5a74839.js"
 );
 
 self.addEventListener('message', (event) => {
