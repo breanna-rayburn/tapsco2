@@ -1,0 +1,25 @@
+.navRoot {
+    position: static !important;
+    height: 50px;
+    background-color: #1c75bc !important;
+}
+
+.navContainer {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.navButton {
+    height: 100%;
+    border-radius: 0 !important;
+}
+
+.navLink {
+    height: 100%;
+}
+
+.navActive {
+    background-color: red;
+}

@@ -1,0 +1,11 @@
+.servicesHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    background-image: url("../../imgs/taps-main-header.jpg");
+    height: 307px;
+}
+
+.servicesHeader img {
+    width: 50%;
+}

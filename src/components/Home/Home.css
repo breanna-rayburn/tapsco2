@@ -1,0 +1,15 @@
+.homeHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    background-image: url("../../imgs/taps-main-header.jpg");
+    height: 307px;
+}
+
+.homeHeader img {
+    width: 50%;
+}
+
+.homeCTA {
+    text-align: center;
+}
